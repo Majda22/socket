@@ -42,7 +42,10 @@ Compile the server:
 *Additional Information:*
 
 majda.c is the file containing all the functions of the project.
+
 Make sure to run each component (server, router, client) in separate terminals for proper execution.
+
 Feel free to explore the source code to understand the project's functionality and structure.
+
 if you need help, please contact me : contactmajdaelhasnaoui@gmail.com
 
